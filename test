@@ -738,7 +738,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://86931223722504",
         "Rarity": "Cosmic",
-        "PlacePrice": 10000,
+        "PlacePrice": 1000000000000,
         "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
